@@ -1,0 +1,19 @@
+table
+{
+	border: 1px solid;
+	font-family: sans-serif;
+	font-size: large;
+	font-style: normal;
+	color: blue;
+	border-collapse: collapse;
+}
+td
+{
+	border: 1px solid black;
+	
+}
+thead
+{
+	border: 2px solid black;
+	font-size: x-large;
+}

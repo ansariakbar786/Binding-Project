@@ -1,0 +1,20 @@
+h1
+{
+	color:blue;
+}
+.boldClass
+{
+	font-weight:bold;
+}
+.italicClass
+{
+	font-family: italic;
+}
+.colorClass
+{
+	color: red;
+}
+.sizeClass
+{
+	font-size: xx-large;
+}
